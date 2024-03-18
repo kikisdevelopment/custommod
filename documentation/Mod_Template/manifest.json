@@ -1,13 +1,13 @@
 {
-    "name": "MOD NAME GOES HERE",
-    "description": "MOD DESCRIPTION GOES HERE",
+    "name": "Kiki's Mod",
+    "description": "Kiki is cool!",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "imdakiki"
     },
     "icons":
     {
-        "512": "icon_512.png"
+        "512": "wallpaper/0853eb6928b33bcdd868af8ac1e6ac24.png"
     },
     "manifest_version": 3,
     "mod":
@@ -164,14 +164,14 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark.png",
+                    "image": "wallpaper/0853eb6928b33bcdd868af8ac1e6ac24.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
                     "image": "wallpaper/video.webm",
-                    "first_frame": "wallpaper/first_frame.jpeg",
+                    "first_frame": "wallpaper/0853eb6928b33bcdd868af8ac1e6ac24.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
